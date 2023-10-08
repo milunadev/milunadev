@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, Its Michelle here! 👋👩‍💻
+
+
+```js
+const milunadev = {
+  codes: [Javascript, Python, HCL(Terraform), Bash],
+  tecnologias: [AWS, Docker and Container, Terraform],
+  bio: "Apasionada por las tecnologias DevOps",
+};
+```
+
 
 <!--
 **milunadev/milunadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
