@@ -12,7 +12,7 @@ const milunadev = {
 🗺️ Find me on: 
 - [Blog](https://miluna.dev)
 - [Youtube](https://www.youtube.com/channel/UCzN7viDUgjFVpeInkyQymwA)
-- [Linkedin](https://www.linkedin.com/in/michelle-luna-alama-246176121)
+- [Linkedin](https://www.linkedin.com/in/milunadev)
 
 <!--
 **milunadev/milunadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
