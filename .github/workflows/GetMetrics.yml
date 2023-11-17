@@ -12,6 +12,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v2  # Añade el paso de checkout para clonar tu repositorio
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          # Configura los plugins que deseas utilizar
+          plugin_languages: 'yes'
+          # Asegúrate de configurar otros plugins y opciones según sea necesario
