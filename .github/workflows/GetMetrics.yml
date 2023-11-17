@@ -22,7 +22,7 @@ jobs:
           plugin_languages: yes
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.starlists.svg
+          filename: metrics.plugin.starlists.lenguage.svg
           token: NOT_NEEDED
           base: ""
           plugin_starlists: yes
