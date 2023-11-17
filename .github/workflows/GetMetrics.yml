@@ -26,7 +26,8 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_starlists: yes
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_only: TC39
+          plugin_starlists_languages: yes
+          
+          
           
           # Asegúrate de configurar otros plugins y opciones según sea necesario
