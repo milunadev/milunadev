@@ -20,14 +20,7 @@ jobs:
           plugin_lines: yes
           # Configura los plugins que deseas utilizar
           plugin_languages: yes
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.starlists.lenguage.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          
+    
           
           
           # Asegúrate de configurar otros plugins y opciones según sea necesario
